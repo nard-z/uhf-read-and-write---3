@@ -1,0 +1,16 @@
+C:\Users\Koha -Workstation\Desktop\040624\GEE-UR-1400 UHF RFID Reader writer SDK\Demo\Csharp\UHFReader18demomain\obj\Debug\UHFReader18demomain.csproj.AssemblyReference.cache
+C:\Users\Koha -Workstation\Desktop\040624\GEE-UR-1400 UHF RFID Reader writer SDK\Demo\Csharp\UHFReader18demomain\obj\Debug\UHFReader18demomain.ChangeIPdlg.resources
+C:\Users\Koha -Workstation\Desktop\040624\GEE-UR-1400 UHF RFID Reader writer SDK\Demo\Csharp\UHFReader18demomain\obj\Debug\UHFReader18demomain.fNhSetDlg.resources
+C:\Users\Koha -Workstation\Desktop\040624\GEE-UR-1400 UHF RFID Reader writer SDK\Demo\Csharp\UHFReader18demomain\obj\Debug\UHFReader18demomain.Form1.resources
+C:\Users\Koha -Workstation\Desktop\040624\GEE-UR-1400 UHF RFID Reader writer SDK\Demo\Csharp\UHFReader18demomain\obj\Debug\UHFReader18demomain.fPhSetDlg.resources
+C:\Users\Koha -Workstation\Desktop\040624\GEE-UR-1400 UHF RFID Reader writer SDK\Demo\Csharp\UHFReader18demomain\obj\Debug\UHFReader18demomain.fSetdlg.resources
+C:\Users\Koha -Workstation\Desktop\040624\GEE-UR-1400 UHF RFID Reader writer SDK\Demo\Csharp\UHFReader18demomain\obj\Debug\UHFReader18demomain.locateForm.resources
+C:\Users\Koha -Workstation\Desktop\040624\GEE-UR-1400 UHF RFID Reader writer SDK\Demo\Csharp\UHFReader18demomain\obj\Debug\UHFReader18demomain.Properties.Resources.resources
+C:\Users\Koha -Workstation\Desktop\040624\GEE-UR-1400 UHF RFID Reader writer SDK\Demo\Csharp\UHFReader18demomain\obj\Debug\UHFReader18demomain.csproj.GenerateResource.cache
+C:\Users\Koha -Workstation\Desktop\040624\GEE-UR-1400 UHF RFID Reader writer SDK\Demo\Csharp\UHFReader18demomain\obj\Debug\UHFReader18demomain.csproj.CoreCompileInputs.cache
+C:\Users\Koha -Workstation\Desktop\040624\GEE-UR-1400 UHF RFID Reader writer SDK\Demo\Csharp\UHFReader18demomain\obj\Debug\UHFReader18demomain.exe
+C:\Users\Koha -Workstation\Desktop\040624\GEE-UR-1400 UHF RFID Reader writer SDK\Demo\Csharp\UHFReader18demomain\obj\Debug\UHFReader18demomain.pdb
+C:\Users\Koha -Workstation\Desktop\040624\GEE-UR-1400 UHF RFID Reader writer SDK\Demo\Csharp\UHFReader18demomain\bin\x86\Debug\UHFReader18demomain.exe.config
+C:\Users\Koha -Workstation\Desktop\040624\GEE-UR-1400 UHF RFID Reader writer SDK\Demo\Csharp\UHFReader18demomain\bin\x86\Debug\UHFReader18demomain.exe
+C:\Users\Koha -Workstation\Desktop\040624\GEE-UR-1400 UHF RFID Reader writer SDK\Demo\Csharp\UHFReader18demomain\bin\x86\Debug\UHFReader18demomain.pdb
+C:\Users\Koha -Workstation\Desktop\040624\GEE-UR-1400 UHF RFID Reader writer SDK\Demo\Csharp\UHFReader18demomain\obj\Debug\UHFReader18demomain.csproj.CopyComplete
